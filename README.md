@@ -35,6 +35,20 @@ flower3 = new Flower(15, 45, 175, color(106, 181, 60), 350);
 
 [Lab Assignment 8 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab08_Cobb)
 
+This project was made to utilize the loading of text fonts as well as images. The project was themed after a movie poster, yet still designed to be interactive as well. Also within this project is the ability to save the screen as a .pdf file. 
+I used the preload() function for loading the font, some strings, and images:
+```
+function preload() {
+  font = loadFont('assets/RubikGlitch-Regular.ttf');
+  line1 = loadStrings('assets/line1.txt');
+  line2 = loadStrings('assets/line2.txt');
+  line3 = loadStrings('assets/line3.txt');
+  line4 = loadStrings('assets/line4.txt');
+  devil = loadImage('assets/devil.jpg');
+  door = loadImage('assets/door.jpg');
+}
+```
+
 ### Lab Assignment 9
 
 [Lab Assignment 9 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab09_Cobb)
