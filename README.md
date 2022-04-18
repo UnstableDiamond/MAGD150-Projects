@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my MAGD150 Project Repository
 
-You can use the [editor on GitHub](https://github.com/UnstableDiamond/MAGD150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Contained below are the descriptions and links for 5 of my MAGD150 Projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lab Assignment 6
 
-### Markdown
+[Lab Assignment 6 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab06_Cobb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lab Assignment 7
 
-```markdown
-Syntax highlighted code block
+[Lab Assignment 7 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab07_Cobb)
 
-# Header 1
-## Header 2
-### Header 3
+### Lab Assignment 8
 
-- Bulleted
-- List
+[Lab Assignment 8 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab08_Cobb)
 
-1. Numbered
-2. List
+### Lab Assignment 9
 
-**Bold** and _Italic_ and `Code` text
+[Lab Assignment 9 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab09_Cobb)
 
-[Link](url) and ![Image](src)
-```
+### Lab Assignment 10
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Lab Assignment 10 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab10_Cobb)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnstableDiamond/MAGD150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
