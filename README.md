@@ -69,5 +69,19 @@ class Mirror {
 
 [Lab Assignment 10 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab10_Cobb)
 
+Lab Assignment 10 is the most recent project, and the first project where we worked with 3-Dimensional objects such as box() and plane(). The theme was maps/cities, so I chose to create a city, give it some buildings and a road, and add some lighting effects.
+One of the key differences between this project and others was the use of a camera, which I set up like so:
+```
+camera(camX, camY, (height/2) / (tan(Math.PI/6)), camX/2, camY, 0, 0, 1, 0);
+```
+I also set up file input for naming the town in the following function:
+```
+function nameTown() {
+  randNameIndex = int(random(table.getRowCount() - 1) + 1);
+  randName = table.get(randNameIndex, 0);
+}
+```
 
+## Closing note
 
+I hope you enjoy this collection!
