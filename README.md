@@ -18,6 +18,19 @@ function jump() {...}
 
 [Lab Assignment 7 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab07_Cobb)
 
+This project was made to experiment with creating classes/objects. Also contained in this project are multiple arrays. This project has a springtime theme, so I chose to create flower objects. 
+
+The flower class had a constructor of:
+```
+constructor(petalSize, pistilSize, stemLength, color, xLocation) {...}
+```
+Allowing me to create new flower objects such as:
+```
+flower1 = new Flower(15, 50, 150, color(219, 57, 57), 100);
+flower2 = new Flower(20, 40, 250, color(3, 44, 252), 225);
+flower3 = new Flower(15, 45, 175, color(106, 181, 60), 350);
+```
+
 ### Lab Assignment 8
 
 [Lab Assignment 8 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab08_Cobb)
