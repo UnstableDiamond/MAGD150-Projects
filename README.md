@@ -53,7 +53,21 @@ function preload() {
 
 [Lab Assignment 9 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab09_Cobb)
 
+The object of this project was to learn to use both audio i/o and video i/o. I chose to focus on getting video and audio input from the user. The project was themed after mirrors, so I chose to make an array of the video input appear in the center of the screen, each element smaller than the last, giving the illusion of two mirrors facing one another.
+For this project I felt it was helpful to make Mirror an object, and this helped me to flip the video if the user clicked the "flip" button:
+```
+class Mirror {
+  ...
+  show() {
+    if (flipCount % 2 == 0) {...}
+    else {...}
+  }
+}
+```
+
 ### Lab Assignment 10
 
 [Lab Assignment 10 Project Folder](https://github.com/UnstableDiamond/MAGD150-Projects/tree/gh-pages/s22magd150lab10_Cobb)
+
+
 
